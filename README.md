@@ -1,4 +1,4 @@
-<center># Simple Linear Regression</center>
+# Simple Linear Regression
 
 ## Simple linear regression examples.
 
