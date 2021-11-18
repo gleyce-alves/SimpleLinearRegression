@@ -1,4 +1,5 @@
-</center> # Simple Linear Regression <\center>
+<center># Simple Linear Regression</center>
+
 ## Simple linear regression examples.
 
 ### Example 1: Simple linear regression of a beta distribution.
