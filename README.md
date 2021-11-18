@@ -2,6 +2,8 @@
 
 ## Simple linear regression examples.
 
+Simple linear regression is used to model the relationship between two continuous variables. Often, the objective is to predict the value of an output variable (or response) based on the value of an input (or predictor) variable.
+
 ### Example 1: Simple linear regression of a beta distribution.
              * Dataset of a sample of size *n* that follows the beta distribution;
              * Histogram for different combinations of parameters of a beta distribution;
