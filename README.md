@@ -10,7 +10,7 @@
              * Log-likelihood function;
              * Score function;
              * Fisher information;
-             * **Hypothesis testing:** Likelihood Ratio statistics, Wald statistic, Test statistics score, Parameter estimation (BFGS-B method), Likelihood ratio test, Wald's Test, Wald test for probability distribution with more than one parameter, Test Score;
+             * Hypothesis testing: Likelihood Ratio statistics, Wald statistic, Test statistics score, Parameter estimation (BFGS-B method), Likelihood ratio test, Wald's Test, Wald test for probability distribution with more than one parameter, Test Score;
              * Confidence interval;
              * Plot log-likelihood function.
              
